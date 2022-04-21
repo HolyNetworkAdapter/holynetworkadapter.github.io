@@ -1,3 +1,5 @@
-## blah blah blah
+## hi fellow internet citizen
 
-american dad is cool
+hi welcome to my website
+
+i dont know what i put here yet
