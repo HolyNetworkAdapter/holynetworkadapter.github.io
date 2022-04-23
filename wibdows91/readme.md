@@ -4,4 +4,4 @@ A modified copy of 98.js with some removed stuff and new programs. We are curren
 
 [Check it out](http://104.192.2.35:1998)
 
-![screenshot](https://holynetworkadapter.github.io/wibdows91/desktop.PNG "screenshot")
+![screenshot](https://holynetworkadapter.github.io/wibdows91/wib91.PNG "screenshot")
