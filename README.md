@@ -10,4 +10,4 @@ i dont know what i put here yet
 
 <a href="/2005">literally 2005</a>
 
-<a href="http://104.192.2.35:1998">check out mikasoft wibdows 91</a>
+<a href="/wibdows91">check out mikasoft wibdows 91</a>
