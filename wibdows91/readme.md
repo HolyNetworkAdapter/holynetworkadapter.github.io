@@ -2,9 +2,9 @@
 
 A modified copy of 98.js with some removed stuff and new programs. We are currently on rel5, released April 22nd, 2022.
 
-[Check it out](http://104.192.2.35:1998)
+[Check it out (Latest stable)](http://104.192.2.35:1998)
 
-[Check the beta out](http://104.192.2.35:1997)
+[Check it out (Latest beta)](http://104.192.2.35:1997)
 
 ![screenshot](https://holynetworkadapter.github.io/wibdows91/wib91.PNG "screenshot")
 
