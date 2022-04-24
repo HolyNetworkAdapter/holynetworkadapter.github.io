@@ -2,7 +2,7 @@
 
 loser from canada - i like american dad (and family guy and simpsons and bobs burgers holy hell) - uservm maintainer - java/c#/ahk/(kinda) c++ dev
 
-i dont know what i put here yet
+here you will find some of my projects like mikasoft wibdows 91
 
 <img src="/Computer.gif">
 
