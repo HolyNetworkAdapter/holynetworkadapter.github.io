@@ -4,6 +4,8 @@ A modified copy of 98.js with some removed stuff and new programs. We are curren
 
 [Check it out](http://104.192.2.35:1998)
 
+[Check the beta out](http://104.192.2.35:1997)
+
 ![screenshot](https://holynetworkadapter.github.io/wibdows91/wib91.PNG "screenshot")
 
 ![screenshot II](https://holynetworkadapter.github.io/wibdows91/options.PNG "screenshot II")
@@ -33,4 +35,4 @@ Here's every feature in the current rel5 release.
 3. Hummus
 4. RDP program
 
-rel6 is probably going to be released by the end of April 2022 or the start of May 2022. A beta version might be released
+rel6 is probably going to be released by the end of April 2022 or the start of May 2022.
