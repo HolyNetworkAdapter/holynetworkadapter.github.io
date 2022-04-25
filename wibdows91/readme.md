@@ -27,5 +27,3 @@ A modified copy of 98.js with some removed stuff and new programs. We are curren
 15. Social91 Social Network
 16. Developer Help
 17. System Recovery
-
-rel6 is probably going to be released by the end of April 2022 or the start of May 2022.
