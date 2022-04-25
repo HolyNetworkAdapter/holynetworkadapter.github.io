@@ -6,11 +6,11 @@ A modified copy of 98.js with some removed stuff and new programs. We are curren
 
 [Check it out (Latest beta)](http://104.192.2.35:1997)
 
-![screenshot](https://holynetworkadapter.github.io/wibdows91/wib91.PNG "screenshot")
+![rel5 screenshot](https://holynetworkadapter.github.io/wibdows91/wib91.PNG "rel5")
 
-![screenshot II](https://holynetworkadapter.github.io/wibdows91/options.PNG "screenshot II")
+![rel6 screenshot](https://holynetworkadapter.github.io/wibdows91/wib91beta.PNG "rel6")
 
-## Features
+## Features (rel5)
 
 Here's every feature in the current rel5 release.
 
@@ -28,11 +28,11 @@ Here's every feature in the current rel5 release.
 12. Space Cadet Pinball
 13. Messenger software
 
-## Planned features in rel6
+## Features (rel6 beta)
 
-1. IDE alongside VS Code
-2. An update to Virtual Machine (emulate a real OS and not iframe wibdows 91)
-3. Hummus
-4. RDP program
+1. All of rel5's features
+2. Mikasoft Remote Desktop
+3. Social91 Social Network
+4. Developer Help
 
 rel6 is probably going to be released by the end of April 2022 or the start of May 2022.
