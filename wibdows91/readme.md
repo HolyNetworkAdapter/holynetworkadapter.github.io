@@ -34,5 +34,6 @@ Here's every feature in the current rel5 release.
 2. Mikasoft Remote Desktop
 3. Social91 Social Network
 4. Developer Help
+5. System Recovery
 
 rel6 is probably going to be released by the end of April 2022 or the start of May 2022.
