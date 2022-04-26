@@ -6,6 +6,8 @@ A modified copy of 98.js with some removed stuff and new programs. We are curren
 
 [Check it out (Latest beta)](http://104.192.2.35:1997)
 
+[Source Code](/wibdows91/source)
+
 ![rel5 screenshot THIS IS AN OLD SCREENSHOT](https://holynetworkadapter.github.io/wibdows91/wib91.PNG "old rel5 screenshot")
 
 ## Features (rel6)
